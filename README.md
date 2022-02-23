@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hewwwooo there 👋
+
+- 🔭 I’m currently working on "Business" Stuff
+- 🌱 I’m currently learning "How to not work to much 🙃"
+- ⚡ If you read this you could also have taken a Coffee Break *(would have been less of a Timewaste 😝)*
 
 <!--
 **konqui/konqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
